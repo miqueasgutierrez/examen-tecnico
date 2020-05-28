@@ -6,7 +6,7 @@ Esta aplicación es puramente una demostración del fregadero de la cocina de Io
 
 * [Descargue el instalador](https://nodejs.org/) para Node LTS.
 * Instale la CLI iónica globalmente: `npm install -g ionic`
-* Clone este repositorio: `git clone https://github.com/miqueasgutierrez/prueba-tecnica.git`.
+* Clone este repositorio: `https://github.com/miqueasgutierrez/examen-tecnico.git`.
 * Ejecute `npm install` desde la raíz del proyecto.
 * Ejecute `ionic serve` en un terminal desde la raíz del proyecto.
 * Lucro. : tada:
