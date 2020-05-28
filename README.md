@@ -1,8 +1,4 @@
-#Aplicación de conferencia angular iónica
-
-Esta aplicación es puramente una demostración del fregadero de la cocina de Ionic Framework y Angular.
-
-##Empezando
+#Prueba Tecnica angular iónica
 
 * [Descargue el instalador](https://nodejs.org/) para Node LTS.
 * Instale la CLI iónica globalmente: `npm install -g ionic`
@@ -17,4 +13,4 @@ _Nota: Consulte [Cómo evitar errores de permisos](https://docs.npmjs.com/gettin
 ## Vista previa de la aplicación
 
 
-El | ! [Buscador](/resources/app.png) 
+El |![Buscador](/resources/app.png) 
